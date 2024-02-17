@@ -2,12 +2,15 @@
     background-color: rgba(20, 102, 224, 0.933);
     padding: 10px;
     margin: 20px 200px;
+    width: auto;
+    height: auto;
 
 }
 
 .card-body {
     height: fit-content;
     padding: 30px;
+    text-align: start;
 
 }
 
