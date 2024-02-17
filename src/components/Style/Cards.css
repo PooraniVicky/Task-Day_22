@@ -1,15 +1,17 @@
-.row{
+.row {
     background-color: rgba(20, 102, 224, 0.933);
     padding: 10px;
     margin: 20px 200px;
 
-   }
-.card-body{
-    height: fit-content;
-    padding: 30px;    
-   
 }
-.project{
+
+.card-body {
+    height: fit-content;
+    padding: 30px;
+
+}
+
+.project {
     padding: 70px;
     border-radius: 50px;
     margin: auto;
@@ -17,16 +19,20 @@
     color: blue;
     text-decoration-color: black;
 }
-#card{
+
+#card {
     padding-left: 20px 30px;
 
 }
+
 .d-grid {
     padding: 10px;
 }
-.card-list{
+
+.card-list {
     padding-top: 30px;
 }
-#title{
+
+#title {
     background-color: white;
 }
